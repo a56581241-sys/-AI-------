@@ -1,0 +1,6 @@
+{
+  "name": "스톡나우 (StockNow)",
+  "description": "실시간 시세, AI 마켓 인사이트, 간편 주문 및 포트폴리오 관리를 제공하는 모바일 증권 투자 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
